@@ -19,9 +19,3 @@ This project features a beautifully designed restaurant menu and reservation for
 ### Contributing
 Feel free to submit issues and pull requests if you find any bugs or have suggestions for improvements.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this description further to fit your project's specifics.
